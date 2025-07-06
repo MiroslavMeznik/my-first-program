@@ -1,3 +1,4 @@
 registrace
 uzivatele
 next
+next user edit
