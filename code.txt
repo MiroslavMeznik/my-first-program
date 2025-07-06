@@ -2,3 +2,4 @@ registrace
 uzivatele
 next
 next user edit
+edited by author
